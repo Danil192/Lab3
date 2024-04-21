@@ -1,0 +1,17 @@
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\bin\Debug\net6.0-windows\my_type.exe
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\bin\Debug\net6.0-windows\my_type.deps.json
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\bin\Debug\net6.0-windows\my_type.runtimeconfig.json
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\bin\Debug\net6.0-windows\my_type.dll
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\bin\Debug\net6.0-windows\my_type.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\obj\Debug\net6.0-windows\my_type.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\obj\Debug\net6.0-windows\my_type.Form1.resources
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\obj\Debug\net6.0-windows\my_type.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\obj\Debug\net6.0-windows\my_type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\obj\Debug\net6.0-windows\my_type.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\obj\Debug\net6.0-windows\my_type.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\obj\Debug\net6.0-windows\my_type.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\obj\Debug\net6.0-windows\my_type.dll
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\obj\Debug\net6.0-windows\refint\my_type.dll
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\obj\Debug\net6.0-windows\my_type.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\obj\Debug\net6.0-windows\my_type.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\3 лабораторная (свой тип)\my_type\my_type\obj\Debug\net6.0-windows\ref\my_type.dll
